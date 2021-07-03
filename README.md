@@ -1,0 +1,3 @@
+# ExperimentalMenuPlugin
+
+Adds the **Experimental Menu** upon startup, the code(in load()) for which can be found at https://discord.gg/K2XqsZSy in #experimental-menu. The **Experimental Menu** adds 2 new menu items in your user settings. One of them lets you change different developer settings that aren't usually available. The second one lets you enable different experiments/features that Discord hasn't officially rolled out to all users. When enabling experiments, each *Treatment* is certain stage in that feature's development process. The higher the *Treatment*, the more polished the feature is
