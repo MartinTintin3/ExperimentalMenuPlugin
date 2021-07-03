@@ -1,7 +1,7 @@
 /**
  * @name ExperimentalMenu
  * @author Martin™#9999
- * @description Adds the **Experimental Menu** apon startup, the code(in load()) for which can be found at https://discord.gg/K2XqsZSy in #experimental-menu. The **Experimental Menu** adds 2 new menu items in your user settings. One of them lets you change different developer settings that aren't usually available. The second one lets you enable different experiments/features that Discord hasn't officially rolled out to all users. When enabling experiments, each *Treatment* is basically a stage in the process of adding this feature
+ * @description Adds the **Experimental Menu** upon startup, the code(in load()) for which can be found at https://discord.gg/K2XqsZSy in #experimental-menu. The **Experimental Menu** adds 2 new menu items in your user settings. One of them lets you change different developer settings that aren't usually available. The second one lets you enable different experiments/features that Discord hasn't officially rolled out to all users. When enabling experiments, each *Treatment* is basically a stage in the process of adding this feature
  * @version 1.0.0
  * @authorId 492464793416892416
  */
